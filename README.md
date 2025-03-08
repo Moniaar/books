@@ -11,17 +11,7 @@
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/29507195/207267857-4ae48890-3fb2-4046-80cf-3256b46c72a0.png" alt="Frappe Books Preview"/>
-</div>
-<br />
-<div align="center">
-	<a href="https://frappe.io/books">Website</a>
-	-
-	<a href="https://docs.frappe.io/books">Documentation</a>
-</div>
-
-## Frappe Books
+## Calcify
 
 Frappe Books is an open-source accounting software aimed at simplifying financial management for businesses. With its clean and user-friendly interface, it streamlines accounting tasks for small and medium-sized enterprises, offering a seamless solution for modern businesses to manage their finances with ease.
 
