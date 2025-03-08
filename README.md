@@ -1,17 +1,13 @@
 <div align="center" markdown="1">
 <br/>
 
-<img src="https://frappe.io/files/books.png" alt="Frappe Books logo" width="80"/>
+![logo](https://github.com/user-attachments/assets/5c92ea81-d081-4e3d-8d78-4580cf62ddbd)
 
 <br/>
 
-<h1>Frappe Books</h1>
+<h1>Calcify</h1>
 
-**Modern Accounting Made Simple**
-
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/frappe/books)](https://github.com/frappe/books/releases)
-![Platforms](https://img.shields.io/badge/platform-mac%2C%20windows%2C%20linux-yellowgreen)
-[![Publish](https://github.com/frappe/books/actions/workflows/publish.yml/badge.svg)](https://github.com/frappe/books/actions/workflows/publish.yml)
+**Accounting has never been easy**
 
 </div>
 
