@@ -52,7 +52,7 @@ Calcify addresses a market gap where small businesses face expensive, complex ac
 
 - **Vue.js**: In Calcify, Vue.js powers the front-end, enabling a reactive and component-based UI. It ensures seamless interactions and dynamic updates, giving users a modern, responsive experience.
 
-- **Electron**: Electron is used to package Frappe Books as a standalone desktop application, allowing it to run offline and provide a native-like experience across Windows, macOS, and Linux.
+- **Electron**: Electron is used to package Calcify as a standalone desktop application, allowing it to run offline and provide a native-like experience across Windows, macOS, and Linux.
 
 - **SQLite**: Calcify uses SQLite as its local database. All financial data, transactions, and configurations are stored securely in an SQLite file on the user's machine.
 
